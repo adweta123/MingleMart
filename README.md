@@ -16,9 +16,9 @@ Secure Payment – Checkout using PayPal or Stripe.
 Pick Up Order – Collect fresh, locally sourced goods hassle-free!
 
 Team Members
-Aditya Maharjan
-Adweta Sigdel
-Md. Mohid Alam
-Nishan Roka Chhetri
-Prabesh Shah
+Aditya Maharjan,
+Adweta Sigdel,
+Md. Mohid Alam,
+Nishan Roka Chhetri,
+Prabesh Shah,
 Sadikshya Kunwar
