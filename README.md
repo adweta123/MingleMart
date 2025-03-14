@@ -15,7 +15,7 @@ Choose Pickup Slot – Select a convenient collection time.
 Secure Payment – Checkout using PayPal or Stripe.
 Pick Up Order – Collect fresh, locally sourced goods hassle-free!
 
-Team Members
+Team Members:
 Aditya Maharjan,
 Adweta Sigdel,
 Md. Mohid Alam,
