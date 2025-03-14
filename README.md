@@ -1,4 +1,4 @@
-MingleMart
+# MingleMart
 MingleMart is a centralized e-commerce platform designed to support local traders by allowing customers to shop from multiple vendors in a single basket and schedule convenient pickups. With secure payments via PayPal and Stripe, along with an intuitive inventory management system, MingleMart enhances convenience for both customers and traders while fostering local business growth.
 
 Features
